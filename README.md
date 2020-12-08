@@ -6,7 +6,7 @@ This repo contains the starter code for Dagens job test, as well as the task des
 
 - The server has an _in-memory_ "database"-array with 1000 products. This is your database, you are _not_ supposed to set up any database service like MongoDB or write to file or persist data in any way.
 
-- We're using the three categories <meat, greens, fish> in the pre-populated database, but feel free to let the user add more categories if you like - no right or wrong.
+- We're using the three categories `<meat, greens, fish>` in the pre-populated database, but feel free to let the user add more categories if you like - no right or wrong.
 
 - Styling/CSS is _not_ important.
 
