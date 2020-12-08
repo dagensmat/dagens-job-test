@@ -2,6 +2,7 @@ const express = require('express');
 const http = require('http');
 const bodyParser = require('body-parser');
 const app = express();
+const products = require('./db');
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
