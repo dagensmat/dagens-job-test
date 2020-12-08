@@ -1,6 +1,8 @@
 # Dagens Job Test
 
-Hi applicant! This repo contains the starter code for Dagens job test, as well as the problem description for both client and server.
+Hi applicant!
+
+This repo contains the starter code for Dagens job test, as well as the problem description for both client and server.
 
 ## Read this first
 
