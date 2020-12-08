@@ -2,7 +2,7 @@
 
 Hi applicant!
 
-This repo contains the starter code for Dagens job test, as well as the task description. Please see README.md in `server/` and `client/` folders for how to install dependencies and start the server and client.
+This repo contains the starter code for Dagens job test, as well as the task description. Please see README.md in `server/` and `client/` folders on how to install dependencies and start the server and client.
 
 - The server has an _in-memory_ "database"-array with 1000 products. This is your database, you are _not_ supposed to set up any database service like MongoDB or write to file or persist data in any way.
 
