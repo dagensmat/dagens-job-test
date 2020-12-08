@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 50px 0;
+  font-family: 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.app {
+  margin: 0 auto;
+  max-width: 800px;
+}
